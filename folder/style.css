@@ -1,0 +1,81 @@
+header{
+    background-color: rgb(46, 27, 94);
+    color: azure;
+    padding: 20px;
+    border: 3px dashed rgb(150, 134, 186);
+    border-radius: 30px;
+    text-align: center;
+}
+
+header b{
+    text-shadow: 1px 1px 1px rgb(115, 94, 157); 
+    color: rgb(255, 255, 255);
+}
+header a{
+    background-color: rgb(115, 85, 159);
+    color:  rgb(240, 217, 254);
+    padding: 5px;
+    border: 2px dashed rgb(246, 241, 255);
+    border-radius: 15px;
+    text-decoration: none;
+}
+
+h1{
+    color: rgb(166, 116, 235);
+    background-color: rgb(234, 222, 255);
+    text-align: center;
+    border-radius: 25px;
+    font-size: 40px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px 2px rgb(105, 63, 132);
+    padding: 10px;
+}
+
+footer{
+    background-color: rgb(46, 27, 94);
+    padding: 10px;
+}
+footer p{
+    background-color: rgb(150, 134, 186);
+    border: 10px double rgb(255, 255, 255);
+    color: white;
+    font-size: 15px;
+    font-family:'Courier New', Courier, monospace;
+    padding: 5px;
+}
+
+nav {
+    background-color: rgb(142, 102, 177);
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    margin: 15px
+}
+
+nav a {
+    color:rgb(105, 63, 132);
+    font-family: Georgia;
+    text-decoration: none 
+}
+
+h2 {
+    background-color: rgb(105, 63, 132);
+    border-radius: 10px;
+    padding: 2px;
+    text-align: center;
+    color: white 
+}
+
+main p {
+     background-color: rgb(150, 134, 186);
+     border-radius: 5px;
+     padding: 7px;
+     color: white;
+     font-size: 25px
+}
+
+main a {
+    color: rgb(105, 63, 132);
+    font-size: 20px;
+    text-decoration: none
+}
